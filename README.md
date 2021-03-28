@@ -1,7 +1,6 @@
-![Header] Windows-love-Linux.png
+![LinuxandWindows](https://i.blogs.es/2920f4/azure3/1366_2000.jpg)
 
 
-# I'm Rod-Rodriguez
-SysAdmin for love but inspired to be a future Dev Ops Engineer.
+**I'm Rod-Rodriguez
+_SysAdmin for love but inspired to be a future Dev Ops Engineer._
 
-</p>
