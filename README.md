@@ -3,5 +3,5 @@
 
 **I'm Rod-Rodriguez**
 
-_SysAdmin for love but inspired to be a future Dev Ops Engineer._
+_SysAdmin for love, but inspired to be a future Dev Ops Engineer._
 
